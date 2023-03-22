@@ -1,0 +1,23 @@
+body {
+    font-family: Arial Narrow Bold;
+    line-height: 1.5;
+
+    background-color: cornflowerblue;
+    color: darkslategray;
+
+    width: 940px;
+    margin: 0 auto;
+}
+h1 {
+text-align: center;
+font-size: 36px;
+margin-bottom: 0;
+}
+main>h2 {
+    text-align: center;
+    font-size: 25 px;
+}
+img{
+    width: 940px;
+    margin-bottom: 10 auto;
+}
