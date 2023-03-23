@@ -1,21 +1,23 @@
 body {
-    font-family: sans-serif;
+    font-family: Arial Narrow Bold;
     line-height: 1.5;
-  
-    background-color: #2623d6;
-    color: #eb0e0e;
-  
-    width: 980px;
+
+    background-color: cornflowerblue;
+    color: darkslategray;
+
+    width: 940px;
     margin: 0 auto;
-  }
-  
-  h1 {
+}
+h1 {
+text-align: center;
+font-size: 36px;
+margin-bottom: 0;
+}
+main>h2 {
     text-align: center;
-    font-size: 36px;
-    margin-bottom: 0;
-  }
-  
-  main > h2 {
-    text-align: center;
-    font-size: 25px;
-  }
+    font-size: 25 px;
+}
+img{
+    width: 940px;
+    margin-bottom: 10 auto;
+}
